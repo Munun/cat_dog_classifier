@@ -88,10 +88,6 @@ Working on this project helped me understand:
 - Add confidence threshold controls
 - Deploy to cloud platform
 
-## License
-
-MIT License
-
 ## Contact
 
 Feel free to reach out if you have questions or suggestions!
