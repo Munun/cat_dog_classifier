@@ -92,5 +92,4 @@ Working on this project helped me understand:
 
 Feel free to reach out if you have questions or suggestions!
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- Email: Patel.mun25@gmail.com
